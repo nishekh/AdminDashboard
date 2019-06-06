@@ -1,4 +1,4 @@
-#This is sample repo containing css etc
-```bash
-apt-get install abc
-```
+#This is sample repo containing css,HTML
+
+#It's an front end web page  
+
